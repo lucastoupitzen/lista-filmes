@@ -7,3 +7,5 @@ for(var i = 0; i < arquivoFilmes.length; i++){
 }
 
 module.exports = lista
+
+//teste do git
