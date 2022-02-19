@@ -8,4 +8,4 @@ for(var i = 0; i < arquivoFilmes.length; i++){
 
 module.exports = lista
 
-////teste do git2
+//////teste do git2
